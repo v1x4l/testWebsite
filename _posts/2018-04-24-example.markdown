@@ -3,7 +3,7 @@ layout:     post
 title:      "My example post"
 subtitle:   "Example of post."
 date:       2018-04-24 12:00:00
-author:     "Start Bootstrap"
+author:     "Example User"
 header-img: "img/post-bg-03.jpg"
 ---
 
