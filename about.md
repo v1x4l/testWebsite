@@ -14,4 +14,4 @@ header-img: "img/about-bg.jpg"
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.</p>
 
-!["stick man"](/img/stickman-free.jpg)
+![stick man](/img/stickman-free.jpg)
